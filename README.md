@@ -1,3 +1,5 @@
+
+<img src="https://github.com/Maithilichavan-AND.png" width="150" height="150" style="border-radius: 50%;" align="right" />
 # 💫 About Me:
 I’m currently working on: Enhancing my automation testing skills with Selenium WebDriver and Java<br>👯 I’m looking to collaborate on: Open-source projects requiring manual, functional, or API testing.<br><br>🤝 I’m looking for help with: Advanced Cucumber BDD frameworks and building robust CI/CD testing pipelines.<br><br>🌱 I’m currently learning: Test automation frameworks, advanced SQL, and API automation.<br><br>💬 Ask me about: Manual testing, writing effective test cases, API validation using Postman, and managing defects in JIRA.<br><br>⚡ Fun fact: I enjoy breaking code just as much as developers love building it!
 
